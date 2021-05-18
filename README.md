@@ -14,7 +14,7 @@ Target Persona: Ezinne, 35, Nigeria
 - Has immediate utility (solves a problem)
 
 
-# Project Overview
+## Project Overview
 
 - Problem identified: user is inexperienced with cryptocurrencies and blockchain technology
 - Plan of action: introduce a low-risk environment for the user to interact with blockchain technology (xDai)
