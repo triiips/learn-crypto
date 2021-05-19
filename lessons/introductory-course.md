@@ -33,3 +33,5 @@ By default, MetaMask is connected to the Ethereum network. You can verify this b
 
 There are also other networks that are built to complement the Ethereum network. One of these networks is the xDai chain, which allows for fast and inexpensive transactions. It also has its own native currency, xDai. To learn about the blockchain in a relatively low-risk environment, we will be using the xDai chain. Feel free to explore other networks after this lesson. 
 
+To connect to the xDai chain, we need to add it as a custom network. You can [follow the instructions on the official website here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). It is always recommended that you only add custom networks by following instructions in official documentation. Your network details should look something like this: 
+![image](https://user-images.githubusercontent.com/83733789/118858811-c5ea3d80-b896-11eb-95a7-2a9c07c631b9.png)
