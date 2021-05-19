@@ -29,6 +29,7 @@ You will now create your first wallet using MetaMask. [Click here to install Met
 
 ## :satellite: How to switch Metamask to the xDai network
 
-By default, MetaMask is connected to the Ethereum network. You can verify this by looking at the top right of your MetaMask extension. Ether is the native currency of the Ethereum network and Ether account balances are constantly verified using the blockchain. 
+By default, MetaMask is connected to the Ethereum network. You can verify this by looking at the top right of your MetaMask extension. Ether is the native currency of the Ethereum network and Ether account balances are constantly verified using blockchain technology. 
 
 There are also other networks that are built to complement the Ethereum network. One of these networks is the xDai chain, which allows for fast and inexpensive transactions. It also has its own native currency, xDai. To learn about the blockchain in a relatively low-risk environment, we will be using the xDai chain. Feel free to explore other networks after this lesson. 
+
