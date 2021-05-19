@@ -19,4 +19,4 @@ A private key is generated from a 12 word seed phrase unique to your wallet. Bec
 
 `e.g. black enough endless person bone term worry plastic detect distance sting employ`
 
-It is important to remember that a wallet is only a tool to access and transfer your cryptocurrencies. If you accidentally uninstall your wallet extension or app, 
+It is important to remember that a wallet is only a tool to access and transfer your cryptocurrencies. If you accidentally uninstall your wallet extension or app, a record of your account still exists on the blockchain. As long as you remember you private key or seed, you will be able to access your crypto again.
