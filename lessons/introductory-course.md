@@ -50,6 +50,6 @@ Remember your private key? Using the private key, an individual can also generat
 
 It is safe to share your address because a private key can be used to generate a public key but a public key cannot be used to generate a private key.  
 
-We will now use the wallet to send some xDai to our own address. Follow the [instructions on the official website to receive xDai in your wallet](https://www.xdaichain.com/for-users/get-xdai-tokens/xdai-faucet). You can copy your wallet address by tapping on it.
+We will now use the faucet to send some xDai to our own address. Follow the [instructions on the official website to receive xDai in your wallet](https://www.xdaichain.com/for-users/get-xdai-tokens/xdai-faucet). You can copy your wallet address by tapping on it.
 
 ![image](https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png)
