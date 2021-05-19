@@ -32,8 +32,8 @@ Target Persona: Ezinne, 35, Nigeria
 
 ## To Do List
 
-- [ ] Create introductory_lesson.md documenting:
-  - [ ] How to set up a MetaMask Wallet
+- [ ] Create introductory-lesson.md documenting:
+  - [x] How to set up a MetaMask Wallet
   - [ ] How to switch Metamask to the xDai network
   - [ ] How to request xDai from the faucet
   - [ ] How to send a transaction
