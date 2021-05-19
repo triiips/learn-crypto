@@ -35,7 +35,7 @@ There are also other networks that are built to complement the Ethereum network.
 
 To connect to the xDai chain, we need to add it as a custom network. You can [follow the instructions on the official website here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). It is always recommended that you only add custom networks by following instructions in official documentation. Your network details should look something like this: 
 
-<img alt="xdai rpc settings" href"https://user-images.githubusercontent.com/83733789/118858811-c5ea3d80-b896-11eb-95a7-2a9c07c631b9.png" width=200px>
+<img alt="xdai rpc settings" src="https://user-images.githubusercontent.com/83733789/118858811-c5ea3d80-b896-11eb-95a7-2a9c07c631b9.png" width=200px>
 
 
 
