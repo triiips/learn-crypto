@@ -56,4 +56,6 @@ We will now use the faucet to send some xDai to our own address. Follow the [ins
 
 ![image](https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png)
 
+---
 
+## How to send a transaction
