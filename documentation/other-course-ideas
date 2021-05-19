@@ -7,6 +7,7 @@
 - Blockchains outside of the Ethereum ecosystem (e.g. Bitcoin)
   - Introduction to another wallet (e.g. Electrum)
   - Might have to use a testnet for this
-- Interacting with contracts
+- Interacting with smart contracts
+  - Contract accounts vs externally owned accounts
 - Hardware vs paper wallets
 - Common scams and how to spot them using blockchain explorers
