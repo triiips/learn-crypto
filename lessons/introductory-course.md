@@ -59,3 +59,5 @@ We will now use the faucet to send some xDai to our own address. Follow the [ins
 ---
 
 ## How to send a transaction
+
+Just do it.
