@@ -9,6 +9,7 @@
   - Might have to use a testnet for this
 - Fiat on-ramps and KYC
 - Decentralized exchanges and automated market makers
+- Proof of work vs proof of stake
 - Interacting with smart contracts
   - Contract accounts vs externally owned accounts
 - Hardware vs paper wallets
