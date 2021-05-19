@@ -32,7 +32,7 @@ Target Persona: Ezinne, 35, Nigeria
 
 - [ ] Create introductory-lesson.md documenting:
   - [x] How to set up a MetaMask Wallet
-  - [ ] How to switch Metamask to the xDai network
-  - [ ] How to request xDai from the faucet
+  - [x] How to switch Metamask to the xDai network
+  - [x] How to request xDai from the faucet
   - [ ] How to send a transaction
 - [ ] Dapp user interface mockup
