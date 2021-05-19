@@ -1,1 +1,22 @@
+ introductory_lesson.md documents:
 
+- How to set up a MetaMask Wallet
+-  How to switch Metamask to the xDai network
+-  How to request xDai from the faucet
+-  How to send a transaction
+
+# Basic Tutorial Layout
+
+## :key: Setting up a MetaMask Wallet
+
+*What is a wallet?*
+
+You can think of a wallet as a door to access cryptocurrencies you own. Only you have the private key, consisting of 64 alphanumerical characters. If anyone else knows your private key, they can access and transfer your cryptocurrencies. 
+
+`e.g. 7de100578f780be29f9adb841026985824e9a7f948a2877c31e0d9cca756a080`
+
+A private key is generated from a 12 word seed phrase unique to your wallet. Because anyone who knows your seed phrase can generate your private key, they can also access and transfer your cryptocurrencies. 
+
+`e.g. black enough endless person bone term worry plastic detect distance sting employ`
+
+It is important to remember that a wallet is only a tool to access and transfer your cryptocurrencies. If you accidentally uninstall your wallet extension or app, 
