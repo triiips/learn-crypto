@@ -10,8 +10,13 @@ Target Persona: Ezinne, 35, Nigeria
 
 ## General requirements for this app
 - Lightweight (small file size and minimal bandwidth/resource usage)
+ - Web browser based (no installation space required for app)
 - Beginner friendly (intuitive UI, accessibility considerations, no economic barrier to entry)
+ - Guides user through a tutorial before offering the choice to learn a variety of subjects
+ - Responsive layout
+ - No deposit or financial commitment required (via xDai faucet)
 - Has immediate utility (solves a problem)
+ - See below
 
 
 ## Project Overview
