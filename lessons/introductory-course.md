@@ -23,4 +23,5 @@ It is important to remember that a wallet is only a tool to access and transfer 
 
 *What is the blockchain?*
 
-The blockchain is a collection of devices that are connected to each other through the internet. It is different from the internet because its main function is to keep track of quantifiable value in the form of cryptocurrencies like Ethereum or Bitcoin. Each device on the blockchain called a node. Nodes constantly communicate with each other, verifying that other nodes contain a truthful depiction of the balances of accounts on the blockchain.
+The blockchain is a collection of devices that are connected to each other through the internet. It is different from the internet because its main function is to keep track of quantifiable value in the form of cryptocurrencies like Ethereum or Bitcoin. Each device on the blockchain called a node. Nodes constantly communicate with each other, verifying that other nodes contain a truthful depiction of the balances of accounts on the blockchain. 
+
