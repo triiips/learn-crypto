@@ -36,3 +36,4 @@ Target Persona: Ezinne, 35, Nigeria
   - [x] How to request xDai from the faucet
   - [ ] How to send a transaction
 - [ ] Dapp user interface mockup
+- [ ] Create own faucet for app
