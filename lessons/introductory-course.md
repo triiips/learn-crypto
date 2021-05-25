@@ -32,7 +32,7 @@ There are also other networks that are built to complement the Ethereum network.
 
 To connect to the xDai chain, we need to add it as a custom network. You can [follow the instructions on the official website here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). It is always recommended that you only add custom networks by following instructions from official documentation. Your network details should look something like this:  
 
-<img alt="xdai rpc settings" src="https://user-images.githubusercontent.com/83733789/118858811-c5ea3d80-b896-11eb-95a7-2a9c07c631b9.png" width=200px>
+<img alt="xdai rpc settings" src="https://user-images.githubusercontent.com/83733789/118858811-c5ea3d80-b896-11eb-95a7-2a9c07c631b9.png" width=25%>
 
 ---
 
@@ -59,7 +59,7 @@ We will now use the faucet to send some xDai to our own address. Follow the [ins
 
 After you have requested xDai from a faucet, click "View in Explorer" to open the xDai blockchain explorer Blockscout.
 
-<img alt="view wallet transactions on blockscout" src="https://user-images.githubusercontent.com/83733789/119557697-be76d880-bd5d-11eb-80d6-bfd1eba54633.png" width=200px>
+<img alt="view wallet transactions on blockscout" src="https://user-images.githubusercontent.com/83733789/119557697-be76d880-bd5d-11eb-80d6-bfd1eba54633.png" width=25%>
 
 *What is a blockchain explorer?*
 
@@ -67,7 +67,7 @@ Every transaction on a blockchain is recorded in groups, called blocks. Blockcha
 
 For now, we will be using the block explorer to look for an incoming transaction from an xDai faucet. When you see that a successful transaction has been made, move on to the next section.  
 
-<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119561500-7dcd8e00-bd62-11eb-97c0-46fe1ccdddf5.png" width=200px>
+<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119561500-7dcd8e00-bd62-11eb-97c0-46fe1ccdddf5.png" width=50%>
 
 ## How to send a transaction
 
