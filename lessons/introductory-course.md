@@ -28,7 +28,7 @@ You will now create your first wallet using MetaMask. [Click here to install Met
 
 By default, MetaMask is connected to the Ethereum network. You can verify this by looking at the top right of your MetaMask extension. Ether is the native currency of the Ethereum network and Ether account balances are constantly verified using blockchain technology. 
 
-There are also other networks that are built to complement the Ethereum network. One of these networks is the xDai chain, which allows for fast and inexpensive transactions. It also has its own native currency, xDai. To learn about the blockchain in a relatively low-risk environment, we will be using the xDai chain. Feel free to explore other networks after this lesson. 
+There are also other networks that are built to complement the Ethereum network. One of these networks is the xDai chain, which allows for fast and inexpensive transactions. It also has its own native currency, xDai. To learn about the blockchain in a relatively low-risk environment, we will be using the xDai chain. Feel free to explore other networks after this lesson.  
 
 To connect to the xDai chain, we need to add it as a custom network. You can [follow the instructions on the official website here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). It is always recommended that you only add custom networks by following instructions in official documentation. Your network details should look something like this: 
 
@@ -56,4 +56,8 @@ We will now use the faucet to send some xDai to our own address. Follow the [ins
 
 ![image](https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png)
 
+---
 
+## How to send a transaction
+
+Just do it.
