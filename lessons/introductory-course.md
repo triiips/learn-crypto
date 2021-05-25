@@ -56,6 +56,7 @@ We will now use the faucet to send some xDai to our own address. Follow the [ins
 
 ![wallet address](https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png)
 
+
 After you have requested xDai from a faucet, click "View in Explorer" to open the xDai blockchain explorer Blockscout.
 
 <img alt="view wallet transactions on blockscout" src="https://user-images.githubusercontent.com/83733789/119557697-be76d880-bd5d-11eb-80d6-bfd1eba54633.png" width=200px>
@@ -66,8 +67,11 @@ Every transaction on a blockchain is recorded in groups, called blocks. Blockcha
 
 For now, we will be using the block explorer to look for an incoming transaction from an xDai faucet. When you see that a successful transaction has been made, move on to the next section.  
 
----
+
 
 ## How to send a transaction
 
+
 Every transaction on the block
+
+
