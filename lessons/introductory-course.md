@@ -55,9 +55,8 @@ It is safe to share your address because a private key can be used to generate a
 We will now use the faucet to send some xDai to our own address. Follow the [instructions on the official website to receive xDai in your wallet](https://www.xdaichain.com/for-users/get-xdai-tokens/xdai-faucet). You can copy your wallet address by tapping on it.
 
 ![wallet address](https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png)
-![view wallet transactions on blockscout](https://user-images.githubusercontent.com/83733789/119557697-be76d880-bd5d-11eb-80d6-bfd1eba54633.png)
 
----
+<img alt="view wallet transactions on blockscout" src="https://user-images.githubusercontent.com/83733789/119557697-be76d880-bd5d-11eb-80d6-bfd1eba54633.png" width=200px>
 
 ## How to send a transaction
 
