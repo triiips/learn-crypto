@@ -57,7 +57,7 @@ We will now use the faucet to send some xDai to our own address. Follow the [ins
 ![wallet address](https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png)
 
 
-After you have requested xDai from a faucet, click "View in Explorer" to open the xDai blockchain explorer Blockscout.
+After you have requested xDai from a faucet, click **View in Explorer** to open the xDai blockchain explorer Blockscout.
 
 <img alt="view wallet transactions on blockscout" src="https://user-images.githubusercontent.com/83733789/119557697-be76d880-bd5d-11eb-80d6-bfd1eba54633.png" width=25%>
 
@@ -69,9 +69,11 @@ For now, we will be using the block explorer to look for an incoming transaction
 
 <img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119561500-7dcd8e00-bd62-11eb-97c0-46fe1ccdddf5.png" width=75%>
 
-## How to send a transaction
+
+---
+## :email: How to send a transaction
 
 
-Every transaction on the block
+Every transaction on the blockchain requires a certain fee to complete. In the Ethereum and xDai ecosystem, this fee is referred to as gas. Gas is measured in gigawei(or gwei) and is one billionth of an Ether or xDai. 
 
-
+Click on the transaction hash of the incoming transaction from an xDai faucet, beside the **transfer** label. 
