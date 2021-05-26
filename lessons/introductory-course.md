@@ -78,5 +78,5 @@ Every transaction on the blockchain requires a certain fee to complete. In the E
 
 Click on the transaction hash of the incoming transaction from an xDai faucet, beside the **transfer** label. 
 
-<img alt="blockscout transaction" src="https://user-images.githubusercontent.com/83733789/119698178-3ac8f480-be0e-11eb-8800-3f7f46554998.png" width=75%>
+<img alt="blockscout transaction" src="(https://user-images.githubusercontent.com/83733789/119698482-84194400-be0e-11eb-8429-ac04b9f08376.png" width=75%>
 
