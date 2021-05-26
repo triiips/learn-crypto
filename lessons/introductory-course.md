@@ -67,7 +67,7 @@ Every transaction on a blockchain is recorded in groups, called blocks. Blockcha
 
 For now, we will be using the block explorer to look for an incoming transaction from an xDai faucet. When you see that a successful transaction has been made, move on to the next section.  
 
-<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119698604-a01ce580-be0e-11eb-9d43-5d35d8b4e45c.png" width=75%>
+<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119699325-4668eb00-be0f-11eb-8625-bd5d747aa958.png" width=75%>
 
 
 ---
