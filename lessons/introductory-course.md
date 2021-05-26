@@ -67,7 +67,7 @@ Every transaction on a blockchain is recorded in groups, called blocks. Blockcha
 
 For now, we will be using the block explorer to look for an incoming transaction from an xDai faucet. When you see that a successful transaction has been made, move on to the next section.  
 
-<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119561500-7dcd8e00-bd62-11eb-97c0-46fe1ccdddf5.png" width=75%>
+<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119699325-4668eb00-be0f-11eb-8625-bd5d747aa958.png" width=75%>
 
 ---
 
@@ -97,3 +97,8 @@ As a user, you can manually set the gas price and gas limit when performing a tr
 ---
 
 ## :email: How to send a transaction
+
+Click on the transaction hash of the incoming transaction from an xDai faucet, beside the **transfer** label. 
+
+<img alt="blockscout transaction" src="https://user-images.githubusercontent.com/83733789/119698794-d78b9200-be0e-11eb-9d28-30dab91048fc.png" width=75%>
+
