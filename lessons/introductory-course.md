@@ -100,3 +100,5 @@ If you set the gas price too low, your transaction may never be included in a bl
 ---
 
 ## :email: How to send a transaction
+
+Let's send a transaction to a contract.
