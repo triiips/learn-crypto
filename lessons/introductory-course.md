@@ -67,16 +67,36 @@ Every transaction on a blockchain is recorded in groups, called blocks. Blockcha
 
 For now, we will be using the block explorer to look for an incoming transaction from an xDai faucet. When you see that a successful transaction has been made, move on to the next section.  
 
-<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119699325-4668eb00-be0f-11eb-8625-bd5d747aa958.png" width=75%>
-
+<img alt="blockscout view" src="https://user-images.githubusercontent.com/83733789/119561500-7dcd8e00-bd62-11eb-97c0-46fe1ccdddf5.png" width=75%>
 
 ---
 
-## :email: How to send a transaction
+## :mag: Using the blockchain explorer
 
-Every transaction on the blockchain requires a certain fee to complete. In the Ethereum and xDai ecosystem, this fee is referred to as gas. Gas is measured in gigawei(or gwei) and is one billionth of an Ether or xDai.  
+Every transaction on the blockchain requires a certain fee to complete. In the Ethereum and xDai ecosystem, this fee is referred to as gas. Gas price is measured in gigawei(or gwei) and is one billionth of an Ether or xDai.  
 
 Click on the transaction hash of the incoming transaction from an xDai faucet, beside the **transfer** label. 
 
 <img alt="blockscout transaction" src="https://user-images.githubusercontent.com/83733789/119698794-d78b9200-be0e-11eb-9d28-30dab91048fc.png" width=75%>
 
+Here you can see all the details of your transaction. Transactions on the blockchain are grouped into blocks and processed together. You can see all the other transactions that were processed at the same time as yours by clicking on the block number.  
+
+<img alt="block explorer" src="https://user-images.githubusercontent.com/83733789/119708053-1a526780-be19-11eb-9be9-0daba50c9705.png" width=75%>
+
+Now let's go back and look at the gas fees required for our transaction. There are three values of gas that are relevant to each transaction: gas limit, gas used, and gas price. 
+
+The gas limit is a safety mechanism to protect users from potential errors. It sets a maximum amount of gas that a transaction can use to prevent situations where a transaction uses up the entire balance of a wallet. More complex transactions will require more gas and have a higher gas limit.  
+
+The gas used value is the actual amount of gas used to perform a transaction. This will always be less than or equal to the gas limit. All unused gas will be returned to the transaction sender after a transaction executes.  
+
+The gas price value is the price per unit of gas paid for a transaction. You can think of it like the auction price for a train ticket: every transaction wants to be included in the next block, but only the highest bidders will be included. The average gas price will fluctuate with demand for block space, meaning higher traffic volume will equate to higher gas prices for a transaction to be included in a block.  
+
+As a user, you can manually set the gas price and gas limit when performing a transaction.  
+
+*What should I keep in mind when setting the gas price and gas limit?*
+
+If you set the gas price too low, your transaction may never be included in a block. If the gas limit is too low, a transaction may not have enough gas to complete. When this happens, the transaction fails and no gas is returned. For now, it is recommended that you use the gas price and gas limits suggested by MetaMask for each transaction. 
+
+---
+
+## :email: How to send a transaction
