@@ -71,9 +71,9 @@ For now, we will be using the block explorer to look for an incoming transaction
 
 
 ---
+
 ## :email: How to send a transaction
 
-
-Every transaction on the blockchain requires a certain fee to complete. In the Ethereum and xDai ecosystem, this fee is referred to as gas. Gas is measured in gigawei(or gwei) and is one billionth of an Ether or xDai. 
+Every transaction on the blockchain requires a certain fee to complete. In the Ethereum and xDai ecosystem, this fee is referred to as gas. Gas is measured in gigawei(or gwei) and is one billionth of an Ether or xDai.  
 
 Click on the transaction hash of the incoming transaction from an xDai faucet, beside the **transfer** label. 
