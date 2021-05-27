@@ -117,7 +117,4 @@ You can view the status of sent transactions under the **Activity** tab in MetaM
 
 > This method of sending transactions was used to demonstrate how to send cryptocurrency to other wallets. If you would like to transfer crypto between two accounts in the same extension or app, you can use the **Transfer between my accounts** function under after pressing **Send** as well. 
 
-Another way to send and recieve crypto with MetaMask is to use QR codes. 
-
-
-Let's send a transaction to a contract. 
+Now let's send a transaction to a contract. 
