@@ -56,7 +56,7 @@ It is safe to share your address because a private key can be used to generate a
 
 We will now use the faucet to send some xDai to our own address. Follow the [instructions on the official website to receive xDai in your wallet](https://www.xdaichain.com/for-users/get-xdai-tokens/xdai-faucet). You can copy your wallet address by tapping on it.
 
-![wallet address](https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png)
+<img alt="wallet address" src="https://user-images.githubusercontent.com/83733789/118893916-7882c600-b8c0-11eb-90fa-c6eebf33f516.png" width=25%>
 
 
 After you have requested xDai from a faucet, click **View in Explorer** to open the xDai blockchain explorer Blockscout.
@@ -107,7 +107,7 @@ There are two main types of transactions: transfers between user addresses and i
 
 First, let's try sending a transaction between addresses. We can send some of our xDai to another wallet that we own by creating another account in MetaMask. Click on the multicolored avatar in your wallet and then select **Create New Account**. This new account is also linked to your seed phrase, but has a unique private key. Copy the address of your second account by tapping on it. To switch back to your first account, click on the multicolored avatar again. We will now send xDai to our other address using the **send** button in MetaMask. 
 
-<img src="https://user-images.githubusercontent.com/83733789/119894417-cec3ba80-bef9-11eb-9818-10506109f1f0.png" alt="send button" width=50%>
+<img src="https://user-images.githubusercontent.com/83733789/119894417-cec3ba80-bef9-11eb-9818-10506109f1f0.png" alt="send button" width=25%>
 
 Paste the address of the recipient(our other wallet). Set the amount to send to whatever you would like. Because each transaction on the network costs gas, it is not possible to send the full balance of your wallet. It is recommended to leave the gas price and limit as-is here, since the minimum gas limit is 21,000 gwei.  
 
