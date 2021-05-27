@@ -34,6 +34,8 @@ To connect to the xDai chain, we need to add it as a custom network. You can [fo
 
 <img alt="xdai rpc settings" src="https://user-images.githubusercontent.com/83733789/118858811-c5ea3d80-b896-11eb-95a7-2a9c07c631b9.png" width=25%>
 
+If you are on mobile, you can add a custom network by tapping **Networks** in **settings**.
+
 ---
 
 ## :money_with_wings: How to get xDai
@@ -101,4 +103,21 @@ If you set the gas price too low, your transaction may never be included in a bl
 
 ## :email: How to send a transaction
 
-Let's send a transaction to a contract.
+There are two main types of transactions: transfers between user addresses and interactions with smart contracts. 
+
+First, let's try sending a transaction between addresses. We can send some of our xDai to another wallet that we own by creating another account in MetaMask. Click on the multicolored avatar in your wallet and then select **Create New Account**. This new account is also linked to your seed phrase, but has a unique private key. Copy the address of your second account by tapping on it. To switch back to your first account, click on the multicolored avatar again. We will now send xDai to our other address using the **send** button in MetaMask. 
+
+<img src="https://user-images.githubusercontent.com/83733789/119894417-cec3ba80-bef9-11eb-9818-10506109f1f0.png" alt="send button" width=50%>
+
+Paste the address of the recipient(our other wallet). Set the amount to send to whatever you would like. Because each transaction on the network costs gas, it is not possible to send the full balance of your wallet. It is recommended to leave the gas price and limit as-is here, since the minimum gas limit is 21,000 gwei.  
+
+<img src="https://user-images.githubusercontent.com/83733789/119894945-7b9e3780-befa-11eb-8365-5dd232a761da.png" alt="transaction activity view" widith=25%>
+
+You can view the status of sent transactions under the **Activity** tab in MetaMask. Tapping on it will show more details about the transaction and provide a link to the transaction hash on the blockchain explorer. 
+
+> This method of sending transactions was used to demonstrate how to send cryptocurrency to other wallets. If you would like to transfer crypto between two accounts in the same extension or app, you can use the **Transfer between my accounts** function under after pressing **Send** as well. 
+
+Another way to send and recieve crypto with MetaMask is to use QR codes. 
+
+
+Let's send a transaction to a contract. 
